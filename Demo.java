@@ -1,9 +1,7 @@
 
 
 
-/*
-*This is the master branch!
-*/
+
 public class Demo
 {
 
@@ -13,4 +11,6 @@ System.out.println("This program does nothing!");
 }
 
 }
-//OMG
+/*
+*This is the new branch!
+/*
